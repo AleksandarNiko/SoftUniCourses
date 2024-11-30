@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Workout\bin\Debug\netcoreapp3.1\Workout.exe
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Workout\bin\Debug\netcoreapp3.1\Workout.deps.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Workout\bin\Debug\netcoreapp3.1\Workout.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Workout\bin\Debug\netcoreapp3.1\Workout.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Workout\bin\Debug\netcoreapp3.1\Workout.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Workout\bin\Debug\netcoreapp3.1\Workout.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Workout\obj\Debug\netcoreapp3.1\Workout.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Workout\obj\Debug\netcoreapp3.1\Workout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Workout\obj\Debug\netcoreapp3.1\Workout.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Workout\obj\Debug\netcoreapp3.1\Workout.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Workout\obj\Debug\netcoreapp3.1\Workout.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Workout\obj\Debug\netcoreapp3.1\Workout.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Workout\obj\Debug\netcoreapp3.1\Workout.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Workout\obj\Debug\netcoreapp3.1\Workout.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Everest\bin\Debug\netcoreapp3.1\Everest.exe
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Everest\bin\Debug\netcoreapp3.1\Everest.deps.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Everest\bin\Debug\netcoreapp3.1\Everest.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Everest\bin\Debug\netcoreapp3.1\Everest.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Everest\bin\Debug\netcoreapp3.1\Everest.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Everest\bin\Debug\netcoreapp3.1\Everest.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Everest\obj\Debug\netcoreapp3.1\Everest.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Everest\obj\Debug\netcoreapp3.1\Everest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Everest\obj\Debug\netcoreapp3.1\Everest.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Everest\obj\Debug\netcoreapp3.1\Everest.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Everest\obj\Debug\netcoreapp3.1\Everest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Everest\obj\Debug\netcoreapp3.1\Everest.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Everest\obj\Debug\netcoreapp3.1\Everest.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Everest\obj\Debug\netcoreapp3.1\Everest.genruntimeconfig.cache

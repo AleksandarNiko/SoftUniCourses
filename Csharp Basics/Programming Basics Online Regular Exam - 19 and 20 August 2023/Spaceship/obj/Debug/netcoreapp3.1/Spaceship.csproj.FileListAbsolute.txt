@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.exe
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.deps.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.genruntimeconfig.cache

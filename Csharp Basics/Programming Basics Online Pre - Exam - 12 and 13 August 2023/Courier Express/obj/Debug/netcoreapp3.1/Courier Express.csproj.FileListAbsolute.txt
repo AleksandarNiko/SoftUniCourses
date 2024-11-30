@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Courier Express\bin\Debug\netcoreapp3.1\Courier Express.exe
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Courier Express\bin\Debug\netcoreapp3.1\Courier Express.deps.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Courier Express\bin\Debug\netcoreapp3.1\Courier Express.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Courier Express\bin\Debug\netcoreapp3.1\Courier Express.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Courier Express\bin\Debug\netcoreapp3.1\Courier Express.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Courier Express\bin\Debug\netcoreapp3.1\Courier Express.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Courier Express\obj\Debug\netcoreapp3.1\Courier Express.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Courier Express\obj\Debug\netcoreapp3.1\Courier Express.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Courier Express\obj\Debug\netcoreapp3.1\Courier Express.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Courier Express\obj\Debug\netcoreapp3.1\Courier Express.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Courier Express\obj\Debug\netcoreapp3.1\Courier Express.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Courier Express\obj\Debug\netcoreapp3.1\Courier Express.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Courier Express\obj\Debug\netcoreapp3.1\Courier Express.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Courier Express\obj\Debug\netcoreapp3.1\Courier Express.genruntimeconfig.cache

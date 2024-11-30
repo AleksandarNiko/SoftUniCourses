@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\FootbalSouve\bin\Debug\netcoreapp3.1\FootbalSouve.exe
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\FootbalSouve\bin\Debug\netcoreapp3.1\FootbalSouve.deps.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\FootbalSouve\bin\Debug\netcoreapp3.1\FootbalSouve.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\FootbalSouve\bin\Debug\netcoreapp3.1\FootbalSouve.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\FootbalSouve\bin\Debug\netcoreapp3.1\FootbalSouve.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\FootbalSouve\bin\Debug\netcoreapp3.1\FootbalSouve.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\FootbalSouve\obj\Debug\netcoreapp3.1\FootbalSouve.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\FootbalSouve\obj\Debug\netcoreapp3.1\FootbalSouve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\FootbalSouve\obj\Debug\netcoreapp3.1\FootbalSouve.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\FootbalSouve\obj\Debug\netcoreapp3.1\FootbalSouve.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\FootbalSouve\obj\Debug\netcoreapp3.1\FootbalSouve.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\FootbalSouve\obj\Debug\netcoreapp3.1\FootbalSouve.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\FootbalSouve\obj\Debug\netcoreapp3.1\FootbalSouve.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\FootbalSouve\obj\Debug\netcoreapp3.1\FootbalSouve.genruntimeconfig.cache

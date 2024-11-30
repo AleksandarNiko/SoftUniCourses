@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\Fishland\bin\Debug\netcoreapp3.1\Fishland.exe
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\Fishland\bin\Debug\netcoreapp3.1\Fishland.deps.json
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\Fishland\bin\Debug\netcoreapp3.1\Fishland.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\Fishland\bin\Debug\netcoreapp3.1\Fishland.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\Fishland\bin\Debug\netcoreapp3.1\Fishland.dll
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\Fishland\bin\Debug\netcoreapp3.1\Fishland.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.dll
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.genruntimeconfig.cache

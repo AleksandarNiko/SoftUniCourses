@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Puppy Care\bin\Debug\netcoreapp3.1\Puppy Care.exe
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Puppy Care\bin\Debug\netcoreapp3.1\Puppy Care.deps.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Puppy Care\bin\Debug\netcoreapp3.1\Puppy Care.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Puppy Care\bin\Debug\netcoreapp3.1\Puppy Care.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Puppy Care\bin\Debug\netcoreapp3.1\Puppy Care.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Puppy Care\bin\Debug\netcoreapp3.1\Puppy Care.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Puppy Care\obj\Debug\netcoreapp3.1\Puppy Care.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Puppy Care\obj\Debug\netcoreapp3.1\Puppy Care.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Puppy Care\obj\Debug\netcoreapp3.1\Puppy Care.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Puppy Care\obj\Debug\netcoreapp3.1\Puppy Care.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Puppy Care\obj\Debug\netcoreapp3.1\Puppy Care.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Puppy Care\obj\Debug\netcoreapp3.1\Puppy Care.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Puppy Care\obj\Debug\netcoreapp3.1\Puppy Care.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Puppy Care\obj\Debug\netcoreapp3.1\Puppy Care.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrapeziodArea\bin\Debug\netcoreapp3.1\TrapeziodArea.exe
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrapeziodArea\bin\Debug\netcoreapp3.1\TrapeziodArea.deps.json
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrapeziodArea\bin\Debug\netcoreapp3.1\TrapeziodArea.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrapeziodArea\bin\Debug\netcoreapp3.1\TrapeziodArea.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrapeziodArea\bin\Debug\netcoreapp3.1\TrapeziodArea.dll
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrapeziodArea\bin\Debug\netcoreapp3.1\TrapeziodArea.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrapeziodArea\obj\Debug\netcoreapp3.1\TrapeziodArea.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrapeziodArea\obj\Debug\netcoreapp3.1\TrapeziodArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrapeziodArea\obj\Debug\netcoreapp3.1\TrapeziodArea.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrapeziodArea\obj\Debug\netcoreapp3.1\TrapeziodArea.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrapeziodArea\obj\Debug\netcoreapp3.1\TrapeziodArea.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrapeziodArea\obj\Debug\netcoreapp3.1\TrapeziodArea.dll
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrapeziodArea\obj\Debug\netcoreapp3.1\TrapeziodArea.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrapeziodArea\obj\Debug\netcoreapp3.1\TrapeziodArea.genruntimeconfig.cache

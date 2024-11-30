@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TriangleArea\bin\Debug\netcoreapp3.1\TriangleArea.exe
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TriangleArea\bin\Debug\netcoreapp3.1\TriangleArea.deps.json
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TriangleArea\bin\Debug\netcoreapp3.1\TriangleArea.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TriangleArea\bin\Debug\netcoreapp3.1\TriangleArea.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TriangleArea\bin\Debug\netcoreapp3.1\TriangleArea.dll
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TriangleArea\bin\Debug\netcoreapp3.1\TriangleArea.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.dll
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.genruntimeconfig.cache

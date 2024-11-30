@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Substitute\bin\Debug\netcoreapp3.1\Substitute.exe
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Substitute\bin\Debug\netcoreapp3.1\Substitute.deps.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Substitute\bin\Debug\netcoreapp3.1\Substitute.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Substitute\bin\Debug\netcoreapp3.1\Substitute.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Substitute\bin\Debug\netcoreapp3.1\Substitute.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Substitute\bin\Debug\netcoreapp3.1\Substitute.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Substitute\obj\Debug\netcoreapp3.1\Substitute.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Substitute\obj\Debug\netcoreapp3.1\Substitute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Substitute\obj\Debug\netcoreapp3.1\Substitute.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Substitute\obj\Debug\netcoreapp3.1\Substitute.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Substitute\obj\Debug\netcoreapp3.1\Substitute.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Substitute\obj\Debug\netcoreapp3.1\Substitute.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Substitute\obj\Debug\netcoreapp3.1\Substitute.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\Substitute\obj\Debug\netcoreapp3.1\Substitute.genruntimeconfig.cache

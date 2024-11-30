@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Gold Mine\bin\Debug\netcoreapp3.1\Gold Mine.exe
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Gold Mine\bin\Debug\netcoreapp3.1\Gold Mine.deps.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Gold Mine\bin\Debug\netcoreapp3.1\Gold Mine.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Gold Mine\bin\Debug\netcoreapp3.1\Gold Mine.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Gold Mine\bin\Debug\netcoreapp3.1\Gold Mine.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Gold Mine\bin\Debug\netcoreapp3.1\Gold Mine.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Gold Mine\obj\Debug\netcoreapp3.1\Gold Mine.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Gold Mine\obj\Debug\netcoreapp3.1\Gold Mine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Gold Mine\obj\Debug\netcoreapp3.1\Gold Mine.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Gold Mine\obj\Debug\netcoreapp3.1\Gold Mine.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Gold Mine\obj\Debug\netcoreapp3.1\Gold Mine.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Gold Mine\obj\Debug\netcoreapp3.1\Gold Mine.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Gold Mine\obj\Debug\netcoreapp3.1\Gold Mine.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Gold Mine\obj\Debug\netcoreapp3.1\Gold Mine.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Mountain Run.exe
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Mountain Run.deps.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Mountain Run.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Mountain Run.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Mountain Run.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Mountain Run.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Mountain Run.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Mountain Run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Mountain Run.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Mountain Run.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Mountain Run.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Mountain Run.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Mountain Run.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Mountain Run.genruntimeconfig.cache

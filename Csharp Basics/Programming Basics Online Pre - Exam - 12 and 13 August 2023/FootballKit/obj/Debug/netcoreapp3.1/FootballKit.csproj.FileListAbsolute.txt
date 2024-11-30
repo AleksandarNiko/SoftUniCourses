@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\FootballKit\bin\Debug\netcoreapp3.1\FootballKit.exe
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\FootballKit\bin\Debug\netcoreapp3.1\FootballKit.deps.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\FootballKit\bin\Debug\netcoreapp3.1\FootballKit.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\FootballKit\bin\Debug\netcoreapp3.1\FootballKit.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\FootballKit\bin\Debug\netcoreapp3.1\FootballKit.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\FootballKit\bin\Debug\netcoreapp3.1\FootballKit.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\FootballKit\obj\Debug\netcoreapp3.1\FootballKit.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\FootballKit\obj\Debug\netcoreapp3.1\FootballKit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\FootballKit\obj\Debug\netcoreapp3.1\FootballKit.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\FootballKit\obj\Debug\netcoreapp3.1\FootballKit.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\FootballKit\obj\Debug\netcoreapp3.1\FootballKit.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\FootballKit\obj\Debug\netcoreapp3.1\FootballKit.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\FootballKit\obj\Debug\netcoreapp3.1\FootballKit.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Pre - Exam - 12 and 13 August 2023\FootballKit\obj\Debug\netcoreapp3.1\FootballKit.genruntimeconfig.cache

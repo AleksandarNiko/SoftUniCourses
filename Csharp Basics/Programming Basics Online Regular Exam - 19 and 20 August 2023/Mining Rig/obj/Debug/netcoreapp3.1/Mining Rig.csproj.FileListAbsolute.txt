@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Mining Rig\bin\Debug\netcoreapp3.1\Mining Rig.exe
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Mining Rig\bin\Debug\netcoreapp3.1\Mining Rig.deps.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Mining Rig\bin\Debug\netcoreapp3.1\Mining Rig.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Mining Rig\bin\Debug\netcoreapp3.1\Mining Rig.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Mining Rig\bin\Debug\netcoreapp3.1\Mining Rig.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Mining Rig\bin\Debug\netcoreapp3.1\Mining Rig.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Mining Rig\obj\Debug\netcoreapp3.1\Mining Rig.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Mining Rig\obj\Debug\netcoreapp3.1\Mining Rig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Mining Rig\obj\Debug\netcoreapp3.1\Mining Rig.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Mining Rig\obj\Debug\netcoreapp3.1\Mining Rig.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Mining Rig\obj\Debug\netcoreapp3.1\Mining Rig.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Mining Rig\obj\Debug\netcoreapp3.1\Mining Rig.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Mining Rig\obj\Debug\netcoreapp3.1\Mining Rig.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Regular Exam - 19 and 20 August 2023\Mining Rig\obj\Debug\netcoreapp3.1\Mining Rig.genruntimeconfig.cache

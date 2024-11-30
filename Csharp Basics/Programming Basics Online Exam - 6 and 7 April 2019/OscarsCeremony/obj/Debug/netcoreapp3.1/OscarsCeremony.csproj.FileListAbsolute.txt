@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\bin\Debug\netcoreapp3.1\OscarsCeremony.exe
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\bin\Debug\netcoreapp3.1\OscarsCeremony.deps.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\bin\Debug\netcoreapp3.1\OscarsCeremony.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\bin\Debug\netcoreapp3.1\OscarsCeremony.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\bin\Debug\netcoreapp3.1\OscarsCeremony.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\bin\Debug\netcoreapp3.1\OscarsCeremony.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\obj\Debug\netcoreapp3.1\OscarsCeremony.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\obj\Debug\netcoreapp3.1\OscarsCeremony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\obj\Debug\netcoreapp3.1\OscarsCeremony.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\obj\Debug\netcoreapp3.1\OscarsCeremony.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\obj\Debug\netcoreapp3.1\OscarsCeremony.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\obj\Debug\netcoreapp3.1\OscarsCeremony.dll
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\obj\Debug\netcoreapp3.1\OscarsCeremony.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\obj\Debug\netcoreapp3.1\OscarsCeremony.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.exe
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.deps.json
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.dll
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.dll
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.pdb
+C:\Users\Lenovo\Desktop\C# basics projects\FirstStepsInCodingMoreExercises\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.genruntimeconfig.cache
