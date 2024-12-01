@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRoot", "SquareRoot\SquareRoot.csproj", "{DE5376B6-9643-47C3-B778-753FB66A9AE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterNumbers", "EnterNumbers\EnterNumbers.csproj", "{78264F4E-A59E-490F-892E-E40E087FDED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE5376B6-9643-47C3-B778-753FB66A9AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5376B6-9643-47C3-B778-753FB66A9AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5376B6-9643-47C3-B778-753FB66A9AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5376B6-9643-47C3-B778-753FB66A9AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78264F4E-A59E-490F-892E-E40E087FDED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78264F4E-A59E-490F-892E-E40E087FDED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78264F4E-A59E-490F-892E-E40E087FDED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78264F4E-A59E-490F-892E-E40E087FDED4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {359B5513-3C51-4A9D-B93A-FC6C138AB1EA}
+	EndGlobalSection
+EndGlobal
